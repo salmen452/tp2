@@ -1,0 +1,61 @@
+.content{
+    background-color: #ebe385;
+    width: 946px;
+    height: 431px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+}
+.main{
+    position: absolute;
+    left: 191px;
+    top: -11px;
+}
+table {
+    width: 120%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: #fef58b;
+    position: absolute;
+    left: 111px;
+}
+.content .menu {
+    padding-top: 55px;
+    padding-left: 17px;
+
+
+
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 10px;
+    text-align: right;
+}
+.col{
+    background-color: #fff9b4;
+}
+.note{
+    font-family: "Comic sans MS";
+    font-style: italic;
+    color: blue;
+    position: absolute;
+    left: 350px;
+    top: 361px;   
+}
+b{
+    font-size: 20px;
+}
+button{
+    width: 140px;
+    height: 43px;
+    background-color: #fef58b;
+    font-family: "Comic sans MS";
+    font-size: medium;
+    color: #c4c3b0;
+    border-right-color: #c4c3b0;
+    border-right-width: 9px;
+}
